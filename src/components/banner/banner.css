@@ -1,0 +1,9 @@
+#banner{
+    position: relative;
+}
+#description{
+    padding: 10px;
+}
+.arrow{
+    position: absolute;
+}

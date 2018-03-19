@@ -1,0 +1,16 @@
+#searchArea{
+    position: relative;
+}
+#searchArea img{
+    position: absolute;
+    top:calc(50% - 10px);
+}
+#searchArea input{
+    padding: 5px;
+    padding-left: 20px;
+    background-color:lightgray;
+    width:100%;
+}
+.col-sm-6{
+    margin :auto;
+}

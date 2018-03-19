@@ -1,0 +1,23 @@
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+.btn-space {
+    /*margin-right: 5px;*/
+}
+.bottomBorder{
+    border-bottom: 1px solid black;
+}
+.selectedTab{
+    border-bottom: 1px solid blue;
+    color:blue;
+}
+.amme .card{
+    width:20px;
+    height:20px;
+    display: inline-block;
+    border:none;
+}
