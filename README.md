@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Instruction to use code
-git clone https://github.com/himanshu-9419/CoLivingSpace.git HimanshuArora_Assignment
-cd HimanshuArora_Assignment
-npm install
-npm start
+- [git clone https://github.com/himanshu-9419/CoLivingSpace.git HimanshuArora_Assignment]
+- [cd HimanshuArora_Assignment]
+- [npm install]
+- [npm start]
 
 
 Below you will find some information on how to perform common tasks.<br>
